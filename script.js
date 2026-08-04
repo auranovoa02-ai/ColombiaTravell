@@ -1,4 +1,4 @@
-document.addEventListener("DOMContentLoaded", function () {
+document.addEventListener("DOMContentLoaded", () {
 
     // Si estamos en la página de Destinos, cargar las tarjetas
     if (document.getElementById("contenedorTarjetas") || document.getElementById("buscarDestino")) {
